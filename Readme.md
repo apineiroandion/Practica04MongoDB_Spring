@@ -72,9 +72,6 @@ La aplicación incluye un componente `DataLoader` que carga datos de pingüinos 
    curl -X DELETE http://localhost:8080/pinguins/{id}
    ```
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulte el archivo `LICENSE` para más detalles.
-
 ## Autor
 Angel Jose Piñeiro Andion
 
