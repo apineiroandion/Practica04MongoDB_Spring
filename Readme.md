@@ -76,7 +76,7 @@ La aplicación incluye un componente `DataLoader` que carga datos de pingüinos 
 Este proyecto está licenciado bajo la Licencia MIT. Consulte el archivo `LICENSE` para más detalles.
 
 ## Autor
-- [Tu Nombre] - Trabajo inicial
+Angel Jose Piñeiro Andion
 
 ## Agradecimientos
 - Documentación de Spring Boot
